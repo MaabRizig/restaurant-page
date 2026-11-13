@@ -1,0 +1,17 @@
+{
+    "pizza":{
+        "imgName": "pizza.jpg",
+        "title": "Pizza Margherita",
+        "desc": "Cheese, tomato, and fresh basil."
+    },
+    "burger":{
+        "imgName": "burger.jpg",
+        "title": "Cheeseburger",
+        "desc": "Juicy beef patty, melted cheese, and a soft organic bun."
+    },
+    "pasta":{
+        "imgName": "pasta.jpg",
+        "title": "Alfredo Pasta",
+        "desc": "Creamy cheese sauce, pasta, tomato, and fresh parsley."  
+    }
+}
